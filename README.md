@@ -32,7 +32,7 @@ This project implements a real-time weather monitoring system using ESP32 and DH
 
 ## Usage
 1. Connect the ESP32 to the computer via USB.  
-2. Open `main.ino` in Arduino IDE.  
+2. Open `temperatureMonitor.ino` in Arduino IDE.  
 3. Set Wi-Fi credentials and Firebase project details in the configuration section.  
 4. Compile and upload the code to ESP32.  
 5. Open Serial Monitor to view real-time logs and status.  
